@@ -1,5 +1,4 @@
 # Python Script - Validação de usuário com hashlib e getpass
-#
 # Importando módulos de Segurança:
 from getpass import getpass
 import hashlib
